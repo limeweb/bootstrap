@@ -206,5 +206,12 @@
     "peerDependencies": {
       "@popperjs/core": "^2.11.8"
     }
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7"
   }
+}
+
+"scripts": {
+  "dev": "lap"
 }
